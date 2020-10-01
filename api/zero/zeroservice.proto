@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zero;
+option go_package = ".;zeropb";
+
+service ZeroService {
+
+}
